@@ -57,6 +57,8 @@ print (a is b)
 print (a is c)
 print (a is not c)
 
-
+# what is the difference between is and ==
+a==5
+a is 5
 
 
