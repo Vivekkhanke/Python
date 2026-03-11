@@ -38,6 +38,7 @@ x += 10
 x -= 10 # ( x = x -10)
 print(x)
 
+
 #Membership Operators ( in , not in)
 print("Membership Operators ( in , not in)")
 
@@ -58,7 +59,7 @@ print (a is c)
 print (a is not c)
 
 # what is the difference between is and ==
-a==5
+a == 5
 a is 5
 
 

@@ -26,7 +26,7 @@ string must be inside quotes ( single or double)
 name ="Ram"
 city ="Pune"
 course = 'Python'
-
+print(name)
 
 #Boolean - Data type
 """
@@ -47,27 +47,38 @@ print(type(age))
 
 ###Types of ERROR ####
 # 1. syntax error -- when error in syntaxt
-print(("vivek") 
+print(("vivek"))
 
 # 2. Run time error -- error occurs while the program is running 
 x=10
 y=0
 print(x/y)  #invalid operation 
-print(abc)  #we have not defined the abc variable so we got abc is not defined error
+print(xy)  #we have not defined the abc variable so we got abc is not defined error
 
 x=10
 y="vivek"
 print(x+y) # type error addition of integer and string type is not allowed in python
 
-# 3.Logical Error
+3.Logical Error
 """
 The error happens when the program runs correctly but gives wrong output
 """
 a=10
 b=20
-avg =  a + b / 2
-avg = ( a + b) / 2
+avg =  (a + b) / 2
 print(avg)
 
+"""
+()
+*, /
++ , -
+"""
+6 + 7 * 2 - 1 + ( 2 * 2)
+6 + 7 * 2 - 1 + 4
+6 + 14 - 1 + 4
+20 - 1 + 4
+20 + 3
+23
 
-
+-20 - 2
+- 22
