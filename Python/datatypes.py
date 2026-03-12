@@ -59,7 +59,7 @@ x=10
 y="vivek"
 print(x+y) # type error addition of integer and string type is not allowed in python
 
-3.Logical Error
+# 3.Logical Error
 """
 The error happens when the program runs correctly but gives wrong output
 """
