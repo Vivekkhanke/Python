@@ -20,3 +20,8 @@ i    j   i*j
 3    2    6
 3    3    9
 """
+for i in range(1,6): #1,2,3              #       i = 3
+    for j in range(1,5):  #1,2,3
+        print(i * j)
+        
+# Write in note book 
