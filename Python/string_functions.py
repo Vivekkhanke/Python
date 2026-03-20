@@ -27,3 +27,5 @@ print(abc.split(","))
 
 abc = "V | I | V | E | K"  #.csv
 print(abc.split("|"))
+
+

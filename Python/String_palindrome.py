@@ -1,6 +1,6 @@
-name = "Nayan"
-teacher ="Madam"
-lv = "Level"
+# name = "Nayan"
+# teacher ="Madam"
+# lv = "Level"
 
 pl = input("Enter the name : ").lower()
 reverse = pl[::-1]

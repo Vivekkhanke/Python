@@ -12,8 +12,6 @@ if "@" in email and "." in email:
 else:
     print("Email is not valid")
  
-
-
 # Extarct information from text
 
 text ="OrderID:1234567"
