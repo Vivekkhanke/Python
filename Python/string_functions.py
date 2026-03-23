@@ -28,4 +28,8 @@ print(abc.split(","))
 abc = "V | I | V | E | K"  #.csv
 print(abc.split("|"))
 
+# =-------------------------------------
 
+name = "Vivek is a data Engineer"
+name = name.count('a')
+print(name)
