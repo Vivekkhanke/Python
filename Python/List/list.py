@@ -37,8 +37,10 @@ print(shopping_cart)
 # Iteration through Lists
 fruits = ["Apple","Banana","Mango","kivi","Orange"]
 for f in fruits:
-    print(f)
-
+    if f == "Apple":
+        print("ok")
+    else:
+        print("None")
 # iteration through index
 
 for f in range(len(fruits)):
