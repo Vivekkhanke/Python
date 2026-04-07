@@ -16,8 +16,9 @@ class train:
         print("started")
         
 
-# obj = car("BMW") #create a object
-# print(obj.display())
+obj = car("BMW") #create a object
+print(obj.display())
+
 
 obj_train = train()
 obj_train.start()
